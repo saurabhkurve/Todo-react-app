@@ -78,7 +78,7 @@ function App() {
 
         <div className="foot">
           <p className="text-white text-1xl ">
-            Created with ❤️ by Saurabh Kurve
+            Created with ❤️ by <a href="https://www.linkedin.com/in/saurabhkurve/" target="_blank" rel="noopener noreferrer">Saurabh Kurve</a>
           </p>
         </div>
       </div>
